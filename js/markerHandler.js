@@ -26,7 +26,7 @@ AFRAME.registerComponent("markerhandler", {
   askTableNumber: function () {
     var iconUrl = "https://raw.githubusercontent.com/whitehatjr/menu-card-app/main/hunger.png";
     swal({
-      title: "Welcome to Hunger!!",
+      title: "Welcome to ABM FBI!!",
       icon: iconUrl,
       content: {
         element: "input",
